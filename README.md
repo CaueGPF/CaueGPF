@@ -4,7 +4,8 @@
 <img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE0M2MzdXRjODdpdWRsdWx0bmpkNGphcnJmaGpiaWxlZ2Fqa3Z0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauegpf&label=Profile%20views&color=0e75b6&style=flat" alt="cauegpf" /> </p>
 
-- 📚 Cursando Engenharia de Inteligência Artificial na Infent e Análise e Desenvolvimento de Sistemas na Impacta
+- 📚 Cursando Engenharia de Inteligência Artificial - Infnet
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - Impacta
 - 💻 Atualmente buscando conhecimento na área de programação 
 - 📫 Entre em contato **caue.gpf@gmail.com**
 
